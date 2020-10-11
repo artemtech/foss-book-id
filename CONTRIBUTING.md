@@ -13,5 +13,5 @@
    | └─ memasang-aplikasi.md
 ```
 
-Semua konten harus berada dalam sub-folder contents
+Semua konten harus berada dalam sub-folder contents. 
 Menulis konten menggunakan Markdown, tutorial ada disini [Mastering Markdown by Github](https://guides.github.com/features/mastering-markdown/)
